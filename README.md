@@ -1,10 +1,8 @@
-
+![logo](https://github.com/Nyallaiah/Nyallaiah/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Yallaiah Nallapati</h1>
 <h3 align="center">A passionate AI/ML Developer in India</h3>
+<img align="right" width="400" src="https://github.com/user-attachments/assets/2b461766-4b0f-47c0-9d9b-d12fa169efb5" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyallaiah&label=Profile%20views&color=0e75b6&style=flat" alt="nyallaiah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyallaiah" alt="nyallaiah" /></a> </p>
 
 - 🔭 I’m currently working on **Brain-Tumor-Detection**
 
@@ -35,4 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyallaiah&show_icons=true&locale=en" alt="nyallaiah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyallaiah&" alt="nyallaiah" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyallaiah&label=Profile%20views&color=0e75b6&style=flat" alt="nyallaiah" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyallaiah" alt="nyallaiah" /></a> </p>
+
 
