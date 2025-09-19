@@ -1,4 +1,4 @@
-![logo](https://github.com/Nyallaiah/Nyallaiah/blob/main/github.png)
+![logo](https://github.com/Nyallaiah/Nyallaiah/blob/main/github background.png)
 <h1 align="center">Hi 👋, I'm Yallaiah Nallapati</h1>
 <h3 align="center">A passionate AI/ML Developer in India</h3>
 <img align="right" width="400" src="https://github.com/user-attachments/assets/2b461766-4b0f-47c0-9d9b-d12fa169efb5" />
